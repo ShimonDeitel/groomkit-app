@@ -1,0 +1,29 @@
+{
+  "identifier": "groomkit",
+  "nonRenewingSubscriptions": [],
+  "products": [
+    {
+      "displayPrice": "3.99",
+      "familyShareable": false,
+      "internalID": "groomkit_pro_unlock",
+      "localizations": [
+        {
+          "description": "Product effectiveness ratings and reorder links list",
+          "displayName": "Groomkit Pro",
+          "locale": "en_US"
+        }
+      ],
+      "productID": "groomkit_pro_unlock",
+      "referenceName": "Groomkit Pro Unlock",
+      "type": "NonConsumable"
+    }
+  ],
+  "settings": {
+    "_askToBuyEnabled": false
+  },
+  "subscriptionGroups": [],
+  "version": {
+    "major": 3,
+    "minor": 0
+  }
+}
